@@ -15,7 +15,7 @@ This projects aims to do a simple lane detection to mimic lane departure warning
 - This involved the concepts of **hough transform** and **hough lines**.
 
 
-Implementation approach and explanation of the concepts involved and the solution can be found in the [report](./Report.pdf)
+Implementation approach and explanation of the concepts involved and the solution can be found in the [report](./Report.pdf).
 
 ### Instructions to run the code:
 
@@ -48,5 +48,5 @@ For dataset_2:
 Improving video quality:
 ![alt text](./output/video_quality.PNG?raw=true "AR Tag")
 
-Output videos can be found [here](https://drive.google.com/drive/folders/1CVt0Flg1HNlbpoh0rk_HrIXpVl4FV7Ct?usp=sharing)
+Output videos can be found [here](https://drive.google.com/drive/folders/1CVt0Flg1HNlbpoh0rk_HrIXpVl4FV7Ct?usp=sharing).
 
