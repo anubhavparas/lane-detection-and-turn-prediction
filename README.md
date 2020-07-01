@@ -45,8 +45,12 @@ For dataset_2:
 
 ### Output:
 
-Improving video quality:
+**Improving video quality:**
+
 ![alt text](./output/video_quality.PNG?raw=true "Improving video quality")
 
+**Lane detection:**
+
+![alt text](./output/lane_detection.PNG?raw=true "Lane detection")
 Output videos can be found [here](https://drive.google.com/drive/folders/1CVt0Flg1HNlbpoh0rk_HrIXpVl4FV7Ct?usp=sharing).
 
